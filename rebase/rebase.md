@@ -3,3 +3,4 @@
 第三次提交，测试rebase功能。
 第五次提交，测试reset功能。
 第六次提交，删除branch分支。
+第七次提交，测试reset head^功能。
